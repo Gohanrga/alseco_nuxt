@@ -1,0 +1,196 @@
+{
+  "tiendas":[
+      {
+        "id": 1,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 2,
+        "nombre": "DragDrop Boti",
+        "logo": "https://licoresdomicilioenbogota.com/wp-content/uploads/2020/09/logo-licores.png",
+        "background": "https://i.pinimg.com/originals/8f/af/6c/8faf6cc5c8f0e40335470ba59e2a474d.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Liquidos.cl",
+        "logo": "https://1000marcas.net/wp-content/uploads/2019/12/Jagermeister-Logo.png",
+        "background": "https://images.squarespace-cdn.com/content/v1/5d4fc074711d5200010c41b3/1565829830800-ZN07GSO3HRAHDCQJA4BQ/Screen+Shot+2019-08-14+at+5.34.21+PM.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 4,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 5,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 6,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 7,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 8,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 9,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 10,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 11,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 12,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 13,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 14,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      },
+      {
+        "id": 15,
+        "nombre": "Kalis Boti online",
+        "logo": "https://e7.pngegg.com/pngimages/834/432/png-clipart-logo-organization-brand-drink-font-drink-signage-food-drinks.png",
+        "background": "https://cdn2.salud180.com/sites/default/files/styles/medium/public/field/image/2014/05/10_bebidas_interna_ok.jpg",
+        "retiro": "De 10 a 22 hrs",
+        "costoEnvio": "2000",
+        "reparto": "Si",
+        "tiempoEnvio": "45 minutos",
+        "comuna": 1
+      }
+  ],
+  "comuna":[
+    { 
+      "id": 1,
+      "nombre": "Maipú",
+      "distancia": "25 minutos"
+    },
+    { 
+      "id": 2,
+      "nombre": "La Florida",
+      "distancia": "35 minutos"
+    },
+    { 
+      "id": 3,
+      "nombre": "Peñalolén",
+      "distancia": "45 minutos"
+    },
+    { 
+      "id": 4,
+      "nombre": "Los condes",
+      "distancia": "55 minutos"
+    },
+    { 
+      "id": 5,
+      "nombre": "Lo Barnechea",
+      "distancia": "65 minutos"
+    }
+  ]
+}
